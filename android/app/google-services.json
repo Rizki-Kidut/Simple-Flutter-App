@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "337102564440",
+    "project_id": "first-app-bc00d",
+    "storage_bucket": "first-app-bc00d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:337102564440:android:9437dbe9be3f06e8a9ae2d",
+        "android_client_info": {
+          "package_name": "com.idcamp2023.pulus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "337102564440-g96n16rius7ucavrf4sfrcom58psfjgq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzbcN5jQ58L9pk9wFQGVUgqz4BXMzgMvA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "337102564440-g96n16rius7ucavrf4sfrcom58psfjgq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
